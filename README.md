@@ -1,17 +1,28 @@
-  ### Hi, I'm Dominik
+# Hey, I'm Dominik 👋
 
-  Senior Software Engineer at [Slido](https://github.com/slidoapp) (part of [Cisco](https://github.com/cisco)), based in 🇸🇰 Bratislava, Slovakia. I build native desktop apps and integrations for macOS and Windows, and work across the full stack
-  with web technologies.
+  By day, I write code at [Slido](https://github.com/slidoapp) ([Cisco](https://github.com/cisco)) so your meetings don't suck. By night, I solder things that probably void warranties.
 
-  At Slido, I've worked on products like **Slido for PowerPoint**, **Slido for Google Slides**, **Slido Switcher**, and **Slido for Slack** — tools used by millions to make meetings and presentations more interactive.
+  Based in 🇸🇰 Bratislava, Slovakia — where the beer is cheap and the software engineers are not.
 
-  Outside of work, I'm a maker — into electronics, IoT, PCB design, and 3D printing.
+  ## What I Do
 
-  ## Tech Stack
+  🖥️ Build native desktop apps and integrations for macOS (Swift) and Windows (C#) — yes, both\
+  🌐 Also do TypeScript, React, Node.js — because one ecosystem is never enough\
+  🔌 Design PCBs and program microcontrollers — because software bugs weren't enough, I needed hardware bugs too\
+  🖨️ 3D design & print things at 2 AM that I absolutely did not need
 
-  **Languages:** Swift, C#, TypeScript, C/C++\
-  **Frameworks:** SwiftUIm WPF, React, Node.js, Xamarin\
-  **Hardware:** Arduino, ESP32, ESP8266, Atmel AVR\
+  ## Things I've Built at Slido
+
+  **Slido for PowerPoint** — Making PowerPoint presentations interactive since before it was cool\
+  **Slido for Google Slides** — Same thing, different religion\
+  **Slido Switcher** — A remote control app, because walking to your laptop is cardio\
+  **Slido for Slack** — Polls in Slack, so you can procrastinate democratically
+
+  ## Toys I Play With
+
+  **Languages:** Swift, C#, TypeScript, C/C++ — I mass-collect languages like others collect stamps\
+  **Hardware:** ESP32, ESP8266, Arduino, Atmel AVR — if it has a chip on it, I'll flash firmware onto it\
+  **Tools:** Xcode/Visual Studio/WebStorm for programming, Autodesk Fusion for 3D modeling, KiCad for designing PCBs, a soldering iron for everything else...
 
 <!--
 **DominikPalo/DominikPalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
