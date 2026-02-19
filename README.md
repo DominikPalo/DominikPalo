@@ -18,7 +18,7 @@ Based in 🇸🇰 Bratislava, Slovakia — where the beer is cheap and the softw
 - **Slido Switcher** — A remote control app, because walking to your laptop is cardio\
 - **Slido for Slack** — Polls in Slack, so you can procrastinate democratically
 
-  ## Toys I Play With
+## Toys I Play With
 
 - **Languages:** Swift, C#, TypeScript, C/C++ — I mass-collect languages like others collect stamps\
 - **Hardware:** ESP32, ESP8266, STM32, Arduino, Atmel AVR — if it has a chip on it, I'll flash firmware onto it\
