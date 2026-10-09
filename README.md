@@ -43,3 +43,11 @@ In my free time I volunteer at [MakerSpace Bratislava](https://www.msba.sk), a c
 - **Languages:** Swift, C#, TypeScript, C/C++. I collect languages the way other people collect stamps.
 - **Hardware:** ESP32, ESP8266, STM32, Arduino, Atmel AVR. If it has a chip on it, I'll flash firmware onto it.
 - **Tools:** Xcode, Visual Studio and WebStorm for code, Autodesk Fusion for 3D modeling, KiCad for PCBs, and a soldering iron for everything else
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DominikPalo/DominikPalo/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DominikPalo/DominikPalo/output/github-snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/DominikPalo/DominikPalo/output/github-snake.svg" />
+</picture>
