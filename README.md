@@ -30,6 +30,15 @@ Native Windows and macOS apps that let presenters remote-control their computer 
 ### 💬 Slido for Slack · *retired*
 Create and manage Slido events and ask questions without leaving Slack. It had a nice run on Product Hunt but not enough users to survive, so it was shut down after two years. I built the backend (Node.js/TypeScript), the MySQL database and the Slack API integration.
 
+## Side Project
+
+### ⚡ [SparkVille](https://sparkville.app) · *beta*
+An interactive web platform that teaches electronics through short lessons, experiments and mini-games. Players explore the town of SparkVille with **Sparkie**, a friendly electric spark, solving puzzles map by map: matching components to their symbols, wiring circuits, reading resistor colour bands and using measuring instruments.
+
+There's also Sparkie's workshop, an interactive lab with a breadboard, multimeter, oscilloscope and Ohm's law experiments. It runs on phones, tablets and desktops without an account or installation, speaks 10 languages, and supports both IEC and ANSI schematic symbols.
+
+Built with React, TypeScript and Vite, and hosted on Cloudflare. Basically my electronics course, minus the burnt fingers.
+
 ## Off the Clock at MakerSpace
 
 In my free time I volunteer at [MakerSpace Bratislava](https://www.msba.sk), a community workshop at Nová Cvernovka. I help run the space and help people with their electronics and maker projects. I also teach:
